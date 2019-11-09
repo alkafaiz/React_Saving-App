@@ -78,9 +78,7 @@ class App extends React.Component {
         <div className="container">
           <div data-aos="fade-down" className="row mt-4 mb-4">
             <div className="col">
-              <h3 className="text-center font-weight-bold">
-                REACT TABUNGAN APP
-              </h3>
+              <h3 className="text-center font-weight-bold">REACT SAVING APP</h3>
             </div>
           </div>
           <div className="row ">
